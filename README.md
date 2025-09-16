@@ -24,13 +24,13 @@ It demonstrates how clever use of **arrays**, **bitwise operations**, and **DOM 
 
 <p align="center">
   <img src="demo/1.png" width="400">
-  <img src="demo/2.png" width="200">
-  <img src="demo/3.png" width="200">
-  <img src="demo/4.png" width="200">
+  <img src="demo/2.png" width="400">
+  <img src="demo/3.png" width="400">
+  <img src="demo/4.png" width="400">
   <br>
-  <img src="demo/5.png" width="200">
-  <img src="demo/6.png" width="200">
-  <img src="demo/7.png" width="200">
+  <img src="demo/5.png" width="400">
+  <img src="demo/6.png" width="400">
+  <img src="demo/7.png" width="400">
 </p>
 
 ## 🚀 How to Run
