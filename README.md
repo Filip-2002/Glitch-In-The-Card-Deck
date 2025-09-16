@@ -20,14 +20,18 @@ It demonstrates how clever use of **arrays**, **bitwise operations**, and **DOM 
  
 ## 🎥 Demo
 
-![demo](demo/1.png)
-![demo](demo/2.pngf)
-![demo](demo/3.png)
-![demo](demo/4.png)
-![demo](demo/5.png)
-![demo](demo/6.png)
-![demo](demo/7.png)
+### Card chosen is **8 of Hearts**
 
+<p align="center">
+  <img src="demo/1.png" width="200">
+  <img src="demo/2.png" width="200">
+  <img src="demo/3.png" width="200">
+  <img src="demo/4.png" width="200">
+  <br>
+  <img src="demo/5.png" width="200">
+  <img src="demo/6.png" width="200">
+  <img src="demo/7.png" width="200">
+</p>
 
 ## 🚀 How to Run
 
