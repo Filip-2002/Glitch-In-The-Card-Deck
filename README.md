@@ -8,6 +8,7 @@ It demonstrates how clever use of **arrays**, **bitwise operations**, and **DOM 
 
 
 ## ✨ Features
+- Animated background
 - **Bitwise logic** to reconstruct the chosen card from simple yes/no answers
 - Dynamic **deck generator** using **arrays** (**no external API required**)
 - **Fisher–Yates shuffle** implementation for true randomness each round
@@ -23,14 +24,14 @@ It demonstrates how clever use of **arrays**, **bitwise operations**, and **DOM 
 ### Card chosen is **8 of Hearts**
 
 <p align="center">
-  <img src="demo/1.png" width="400">
-  <img src="demo/2.png" width="400">
-  <img src="demo/3.png" width="400">
-  <img src="demo/4.png" width="400">
+  <img src="demo/1.png" width="300">
+  <img src="demo/2.png" width="300">
+  <img src="demo/3.png" width="300">
+  <img src="demo/4.png" width="300">
   <br>
-  <img src="demo/5.png" width="400">
-  <img src="demo/6.png" width="400">
-  <img src="demo/7.png" width="400">
+  <img src="demo/5.png" width="300">
+  <img src="demo/6.png" width="300">
+  <img src="demo/7.png" width="300">
 </p>
 
 ## 🚀 How to Run
