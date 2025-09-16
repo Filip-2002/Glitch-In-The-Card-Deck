@@ -24,15 +24,15 @@ It demonstrates how clever use of **arrays**, **bitwise operations**, and **DOM 
 ### Card chosen is **8 of Hearts**
 
 <p>
-  <img src="demo/1.png" width="200">
-  <img src="demo/2.png" width="200">
-  <img src="demo/3.png" width="200">
+  <img src="demo/1.png" width="300">
+  <img src="demo/2.png" width="300">
+  <img src="demo/3.png" width="300">
   <br>
-  <img src="demo/4.png" width="200">
-  <img src="demo/5.png" width="200">
-  <img src="demo/6.png" width="200">
+  <img src="demo/4.png" width="300">
+  <img src="demo/5.png" width="300">
+  <img src="demo/6.png" width="300">
   <br>
-  <img src="demo/7.png" width="200">
+  <img src="demo/7.png" width="300">
 </p>
 
 ## 🚀 How to Run
