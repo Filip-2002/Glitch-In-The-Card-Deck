@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Card Magic</title>
+
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <video autoplay muted loop playsinline id="cyber_punk">
+    <source src="video/cyber_punk_pixel.mp4" type="video/mp4">
+  </video>
+
+  <div id="step-1">
+    <h2 id="main-title">REMEMBER ONE CARD</h2>
+    <div id="card-pick" class="card-container"></div>
+      <button onclick="startTrick()">I'VE REMEMBERED ONE</button>
+  </div>
+
+    <div id="step-2" class="hidden">
+      <h2>IS YOUR CARD HERE</h2>
+      <div id="group">
+        <button onclick="answer(true)">YES</button>
+        <button onclick="answer(false)">NO</button>
+      </div>
+      <div id="card-group" class="card-container"></div>
+    </div>
+
+    <div id="step-3" class="hidden">
+      <h2>YOUR CARD WAS</h2>
+      <div id="revealed-card" class="card-container final-reveal"></div>
+      <button onclick="shuffleDeck()">SHUFFLE DECK</button>
+    </div>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+</html>
